@@ -223,7 +223,7 @@ Receive module use priority queue to
 * Merge adjacent data in a scattered range of sequence numbers
 
 ![Receive_Window](./image/Receive_Window.jpg)
-<div style="text-align: center;">Fig. 4  Receive window</div>
+<div style="text-align: center;">Fig. 3  Receive window</div>
 
 
 <br><br>
