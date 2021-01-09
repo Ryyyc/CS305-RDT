@@ -1,9 +1,9 @@
-# CS305 Reliable Data Transfer
+# CS305 Computer Network
 
 
 
 ## Brief
-CS305 Computer Network course project in SUSTech 2020-Fall, The description document is at [CS305_Project](./doc/CS305_Project.pdf)
+CS305 Computer Network course project **Reliable Data Transfer** in SUSTech 2020-Fall, The description document is at [CS305_Project](./doc/CS305_Project.pdf)
 
 <br>
 
@@ -240,7 +240,7 @@ In order to deal with receive window rollback, a sub priority queue is used to t
 ## Contributors
 
 
-<a href="https://github.com/JavuesZhang"> <img src="https://avatars0.githubusercontent.com/u/48386227?s=460&u=aa421a8e82ebc5d473851a4e1e2bae08f04daa12&v=4" width="100" style="border-radius:50%;" alt="JavuesZhang"/></a><a href="https://github.com/Gan-Cheng"> <img src="https://avatars2.githubusercontent.com/u/63938745?s=460&v=4" width="100" style="border-radius:50%;" alt="Gan-Cheng"/></a><a href="https://github.com/Ryyyc"> <img src="https://avatars1.githubusercontent.com/u/47767371?s=460&u=f3d458d2c7205df2ecd69ea0f5b35059581e1aa0&v=4" width="100" style="border-radius:50%;" alt="Ruan"/></a>
+<a href="https://github.com/JavuesZhang"> <img src="https://avatars0.githubusercontent.com/u/48386227?s=460&u=aa421a8e82ebc5d473851a4e1e2bae08f04daa12&v=4" width="80" style="border-radius:50%;" alt="JavuesZhang"/></a><a href="https://github.com/Gan-Cheng"> <img src="https://avatars2.githubusercontent.com/u/63938745?s=460&v=4" width="80" style="border-radius:50%;" alt="Gan-Cheng"/></a><a href="https://github.com/Ryyyc"> <img src="https://avatars1.githubusercontent.com/u/47767371?s=460&u=f3d458d2c7205df2ecd69ea0f5b35059581e1aa0&v=4" width="80" style="border-radius:50%;" alt="Ruan"/></a>
 
 
 
