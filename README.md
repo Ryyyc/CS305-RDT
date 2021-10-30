@@ -1,5 +1,9 @@
 # CS305 Computer Network
 
+[![language](https://img.shields.io/github/languages/top/Ryyyc/CS305-Computer-Network?color=%23330099)]()
+[![commit activity](https://img.shields.io/github/commit-activity/m/Ryyyc/CS305-Computer-Network)](https://github.com/Ryyyc/CS305-Computer-Network/commits/master)
+[![code size](https://img.shields.io/github/languages/code-size/Ryyyc/CS305-Computer-Network?color=%230099CC)]()
+[![repo size](https://img.shields.io/github/repo-size/Ryyyc/CS305-Computer-Network?color=%23CC9900)]()
 
 
 ## Brief
